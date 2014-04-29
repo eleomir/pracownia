@@ -26,7 +26,7 @@
 			<li 
 			<?php if ($t=="off") echo 'class="active"'; ?> ><a href="index.php?t=off">Oferta</a></li>
 			<li 
-			<?php if ($t=="prc") echo 'class="active"'; ?> ><a href="index.php?t=prc">Cennik</a></li>
+			<?php if ($t=="prc") echo 'class="active"'; ?> ><a href="index.php?t=prc">Rejestracja online</a></li>
 			<li 
 			<?php if ($t=="cont") echo 'class="active"'; ?> ><a href="index.php?t=cont">Kontakt</a></li>
 			<li 

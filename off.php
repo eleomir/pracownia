@@ -7,6 +7,8 @@
 			To rozmowa z psychologiem na temat doświadczanych trudności.
 			<br>Celem konsultacji jest omówienie problemu i próba opracowania strategii poradzenia sobie z&nbspnapotkanymi trudnościami.
 			<br>Czasem jest to pojedyncze spotkanie, czasem kilka, często staje się wstępem do dłuższej pracy w ramach terapii indywidualnej.
+			<br><br>
+			Sesja trwa 50 min/70zł
 	</div>	
 	<br><br>
 	<div id="col1">
@@ -17,6 +19,8 @@
 			Forma pomocy psychologicznej skierowana do rodziców, którzy doświadczają trudności wychowawczych w relacji ze swoim dzieckiem.
 			<br>Na pierwsze spotkanie przychodzi sam rodzic/rodzice, czasem jest to wystarczające, aby&nbspokreślić sposób rozwiązania problemu.
 			<br>Druga konsultacja poświęcona jest rozmowie z dzieckiem/nastolatkiem.
+			<br><br>
+			Sesja trwa 50 min/70zł
 	</div>	
 	<br><br>
 	<div id="col1">
@@ -37,6 +41,8 @@
 					<li>zaburzeń odżywiania (anoreksja, bulimia),
 					<li>chęci poznania i zrozumienia samego siebie.
 				</ul>
+			<br><br>
+			Sesja trwa 50 min/70zł
 	</div>			
 	
 	
