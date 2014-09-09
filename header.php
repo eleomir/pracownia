@@ -29,8 +29,8 @@
 			<?php if ($t=="prc") echo 'class="active"'; ?> ><a href="index.php?t=prc">Rejestracja online</a></li>
 			<li 
 			<?php if ($t=="cont") echo 'class="active"'; ?> ><a href="index.php?t=cont">Kontakt</a></li>
-			<li 
-			<?php if ($t=="training") echo 'class="active"'; ?> ><a href="index.php?t=training">Trening pamięci</a></li>
+			<li> 
+			<a href="http://ulnowa2.blogspot.com/" target ="_blank">Blog</a></li>
 		</ul>
 	</div>
 	<!-- end menu -->
