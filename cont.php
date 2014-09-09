@@ -3,15 +3,17 @@
 ?>
 			<p>
 				<ul>
-				<br>Zapraszam do kontaktu telefonicznego oraz mailowego:
+				Pracownia znajduje się w <strong>Szamotułach</strong> przy <strong>ul. Sukienniczej 9</strong>
+				<br><br>Zapraszam do kontaktu telefonicznego oraz mailowego:
 				
 				<br><br>Elżbieta Jasnosik
-				<br>&nbsp&nbsp tel.: 792 342 517
+				<br>&nbsp&nbsp tel.: 792 342 517 lub 600 909 410
 				
-				<br><strong><a href="mailto:kontakt@pracownianowehoryzonty.pl">kontakt@pracownianowehoryzonty.pl</a></strong>
+				
+				<br><a href="mailto:kontakt@pracownianowehoryzonty.pl">kontakt@pracownianowehoryzonty.pl</a>
 								
 				
-				<br><br>Kontakt telefoniczny po godz. 15.00
+				<br><br><h3>Kontakt telefoniczny po godz. 15.00</h3>
 				<br><br>
 				<strong>Możliwa jest także rejestracja online. Aby umówić się na termin, proszę kliknąć przycisk poniżej:</strong>
 				<br><br>
