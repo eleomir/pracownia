@@ -14,5 +14,5 @@
 <!-- zdjęcie zrobić większe, tekst w panelu na prawo od zdjęcia-->
 
 <!-- tekst przerobić w pierwszej osobie-->
-	</div> 
+	 
 </p>	
