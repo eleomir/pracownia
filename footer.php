@@ -1,5 +1,7 @@
 	<!-- end page -->
 	<div id="footer">
+	
+<div class="fb-like" data-href="http://pracownianowehoryzonty.pl" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>
 	</div>
 	<!-- end footer -->
 </div>
