@@ -7,13 +7,14 @@
 				<br><br>Zapraszam do kontaktu telefonicznego oraz mailowego:
 				
 				<br><br>Elżbieta Jasnosik
-				<br>&nbsp&nbsp tel.: 792 342 517 lub 600 909 410
-				
-				
-				<br><a href="mailto:kontakt@pracownianowehoryzonty.pl">kontakt@pracownianowehoryzonty.pl</a>
-								
+				<br>&nbsp&nbsp tel.: 792 342 517 
+				<br>&nbsp&nbsp lub &nbsp600 909 410
 				
 				<br><br><h3>Kontakt telefoniczny po godz. 15.00</h3>
+				
+				<br>Adres email: <a href="mailto:kontakt@pracownianowehoryzonty.pl">kontakt@pracownianowehoryzonty.pl</a>
+								
+				
 				<br><br>
 				<strong>Możliwa jest także rejestracja online. Aby umówić się na termin, proszę kliknąć przycisk poniżej:</strong>
 				<br><br>
